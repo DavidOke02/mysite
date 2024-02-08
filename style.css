@@ -34,7 +34,7 @@ main {
     clear: left;
     float: right;
     grid-area: main;
-    margin-left: 6px;
+    margin-left: 8px;
 }
 #Sidebar{
     float: left;
